@@ -3,7 +3,6 @@
 I’m **Andy Zhang**, a passionate Full-Stack Developer with expertise in both web and mobile development. I love working on innovative projects and solving complex problems, whether it’s building a new feature or optimizing existing code.
 
 - 📚 **Education:** Bachelor’s Degree in Computer Science from Dalhousie University
-- 📍 **Location:** Halifax, NS, Canada
 - 💻 **Currently working on:** Full-stack development and cloud-based applications
 
 ## What I Use
