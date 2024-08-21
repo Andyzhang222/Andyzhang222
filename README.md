@@ -6,16 +6,6 @@ I’m **Andy Zhang**, a passionate Full-Stack Developer with expertise in both w
 - 📍 **Location:** Halifax, NS, Canada
 - 💻 **Currently working on:** Full-stack development and cloud-based applications
 
-## Education
-
-### Dalhousie University, Halifax, NS
-**Bachelor’s Degree in Computer Science**  
-_Sep. 2021 – May 2024_  
-- **GPA:** 3.9/4.30  
-- **Honors and Awards:** Sexton Scholar, Dean’s List  
-- **Certificate:** Communication Technologies and Cyber Security  
-- **Strengths:** Self-learning, problem-solving, and teamwork.
-
 ## What I Use
 
 ### DevOps
